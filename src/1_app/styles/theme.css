@@ -1,0 +1,22 @@
+@theme inline {
+  --font-sans: var(--font-inter);
+}
+
+@theme {
+  --shadow-md: 0 0 5px rgba(0, 0, 0, 0.15);
+  --shadow-lg: 0px 2px 12px rgba(0, 0, 0, 0.15);
+
+  --breakpoint-lg: 66.25rem;
+
+  --color-yellow-100: #fef6cb;
+  --color-yellow-200: #8c824d;
+
+  --color-green-100: #ccffd1;
+  --color-green-200: #4d8c53;
+
+  --color-blue-100: #cce5ff;
+  --color-blue-200: #4d6d8c;
+
+  --color-purple-100: #f6ccff;
+  --color-purple-200: #814d8c;
+}
